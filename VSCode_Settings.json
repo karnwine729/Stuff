@@ -18,4 +18,5 @@
     "zenMode.fullScreen": false,
     "zenMode.hideLineNumbers": false,
     "editor.minimap.enabled": true,
+    "files.trimTrailingWhitespace": true,
 }
